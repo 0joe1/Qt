@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-971652d327ae2f69fc20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "q2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "q2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q2-RelWithDebInfo-6525379fbe834b48fe59.json",
+					"name" : "q2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "q2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q2_autogen-RelWithDebInfo-0a2572709ded830d87dd.json",
+					"name" : "q2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "q2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q2_autogen_timestamp_deps-RelWithDebInfo-1f708d9b0c76d8d49683.json",
+					"name" : "q2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo",
+		"source" : "/home/username/Desktop/QtFiles/q2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

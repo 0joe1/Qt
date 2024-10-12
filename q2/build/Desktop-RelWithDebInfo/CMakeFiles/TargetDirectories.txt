@@ -1,0 +1,9 @@
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/q2.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/edit_cache.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/list_install_components.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/install.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/install/local.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/install/strip.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/q2_autogen_timestamp_deps.dir
+/home/username/Desktop/QtFiles/q2/build/Desktop-RelWithDebInfo/CMakeFiles/q2_autogen.dir

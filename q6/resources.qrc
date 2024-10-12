@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="home.png">image/_home_alt_outline.png</file>
+        <file alias="open.png">image/打开.png</file>
+        <file>image/save.png</file>
+    </qresource>
+</RCC>

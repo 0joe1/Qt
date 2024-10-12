@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e4bbef064b40b62b0aee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qq",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qq::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qq-Debug-0ef38ccde6925330334d.json",
+					"name" : "qq",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qq_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qq_autogen-Debug-0cbeb7572aa401319113.json",
+					"name" : "qq_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qq_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qq_autogen_timestamp_deps-Debug-ea8567dad3f1b7a1a708.json",
+					"name" : "qq_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/username/Desktop/QtFiles/qq/build/Desktop-Debug",
+		"source" : "/home/username/Desktop/QtFiles/qq"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

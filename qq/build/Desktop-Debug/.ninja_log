@@ -1,0 +1,9 @@
+# ninja log v6
+1	134	1727229377671461628	qq_autogen/timestamp	e90c26fea89bdfd2
+1	134	1727229377671461628	qq_autogen/mocs_compilation.cpp	e90c26fea89bdfd2
+1	134	1727229377671461628	/home/username/Desktop/QtFiles/qq/build/Desktop-Debug/qq_autogen/timestamp	e90c26fea89bdfd2
+1	134	1727229377671461628	/home/username/Desktop/QtFiles/qq/build/Desktop-Debug/qq_autogen/mocs_compilation.cpp	e90c26fea89bdfd2
+136	1096	1727229377678124086	CMakeFiles/qq.dir/dialog.cpp.o	6e0b2ec10f0e5dd3
+135	1124	1727229377678124086	CMakeFiles/qq.dir/qq_autogen/mocs_compilation.cpp.o	5394670268f34960
+135	1202	1727229377678124086	CMakeFiles/qq.dir/main.cpp.o	fdd43a9233c1847c
+1202	1436	1727229378744118250	qq	ca3de7bc5d92e33d

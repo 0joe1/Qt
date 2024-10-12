@@ -1,0 +1,24 @@
+# ninja log v6
+2	152	1727226161952628132	hiworld_autogen/timestamp	d33654903223f507
+2	152	1727226161952628132	/home/username/Desktop/QtFiles/hiworld/build/Desktop-Debug/hiworld_autogen/mocs_compilation.cpp	d33654903223f507
+153	1233	1727226161962603362	CMakeFiles/hiworld.dir/dialog.cpp.o	688fd2e59c6a653e
+2	152	1727226161952628132	hiworld_autogen/mocs_compilation.cpp	d33654903223f507
+2	152	1727226161952628132	/home/username/Desktop/QtFiles/hiworld/build/Desktop-Debug/hiworld_autogen/timestamp	d33654903223f507
+153	1174	1727226161962603362	CMakeFiles/hiworld.dir/hiworld_autogen/mocs_compilation.cpp.o	242527798aa0453f
+153	1234	1727226161962603362	CMakeFiles/hiworld.dir/main.cpp.o	162f28d5aff2b822
+1234	1467	1727226163043325593	hiworld	715a98047bdd085c
+0	11	1727226158550290075	CMakeFiles/clean.additional	ef993b15a92b8f11
+11	14	1727226158560289638	clean	a31eedcededa8236
+2	63	1727226351524961923	build.ninja	7624ef1b00b9f359
+2	35	1727226373663987608	hiworld_autogen/timestamp	d33654903223f507
+2	35	1727226373663987608	hiworld_autogen/mocs_compilation.cpp	d33654903223f507
+2	35	1727226373663987608	/home/username/Desktop/QtFiles/hiworld/build/Desktop-Debug/hiworld_autogen/timestamp	d33654903223f507
+2	35	1727226373663987608	/home/username/Desktop/QtFiles/hiworld/build/Desktop-Debug/hiworld_autogen/mocs_compilation.cpp	d33654903223f507
+35	989	1727226373697309478	CMakeFiles/hiworld.dir/dialog.cpp.o	688fd2e59c6a653e
+989	1196	1727226374650315024	hiworld	715a98047bdd085c
+2	31	1727227217380097896	hiworld_autogen/timestamp	d33654903223f507
+2	31	1727227217380097896	hiworld_autogen/mocs_compilation.cpp	d33654903223f507
+2	31	1727227217380097896	/home/username/Desktop/QtFiles/hiworld/build/Desktop-Debug/hiworld_autogen/timestamp	d33654903223f507
+2	31	1727227217380097896	/home/username/Desktop/QtFiles/hiworld/build/Desktop-Debug/hiworld_autogen/mocs_compilation.cpp	d33654903223f507
+31	975	1727227217410105932	CMakeFiles/hiworld.dir/dialog.cpp.o	688fd2e59c6a653e
+975	1189	1727227218353688768	hiworld	715a98047bdd085c
